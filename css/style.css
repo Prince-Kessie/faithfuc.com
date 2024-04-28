@@ -8133,7 +8133,7 @@ body {
   font-size: 15px;
   line-height: 1.8;
   font-weight: 400;
-  color: gray; }
+  color: #101010 ; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
